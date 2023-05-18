@@ -1,0 +1,15 @@
+Package: charlotte
+Type: Package
+Title: Compute Log of Summed Exponents
+Version: 0.1.0
+Author: Charlotte Talham
+Maintainer: Charlotte Talham <cjtalham@uw.edu>
+Description: Calculates the log of summed exponents
+    of a numeric input vector.
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+License: MIT + file LICENSE
